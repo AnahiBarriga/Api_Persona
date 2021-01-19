@@ -1,0 +1,3 @@
+@Imports WebApi_Persona.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
